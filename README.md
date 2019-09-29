@@ -1,6 +1,6 @@
 # Online Advertisement Prediction
 
-To make prediction and train the model over a dataset (Iris data Set, Advertisement dataset), the dataset was split randomly between training and testing set in the ratio of 8:2 respectively. After constructing the decision tree with the training data and applying the appropriate pruning strategy following details are observed in two independent runs,
+The project includes implementation of Decision tree classifier without using any libraries. The Objective of this project is to make prediction and train the model over a dataset (Iris data Set, Advertisement dataset), the dataset was split randomly between training and testing set in the ratio of 8:2 respectively. After constructing the decision tree with the training data and applying the appropriate pruning strategy following details are observed in two independent runs,
 
 ## Iris Data Set
 
