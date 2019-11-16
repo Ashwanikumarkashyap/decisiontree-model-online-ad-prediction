@@ -2,7 +2,9 @@
 
 The project includes implementation of Decision tree classifier without using any libraries. The Objective of this project is to make prediction and train the model over a dataset (Iris data Set, Advertisement dataset), the dataset was split randomly between training and testing set in the ratio of 8:2 respectively. After constructing the decision tree with the training data and applying the appropriate pruning strategy following details are observed in two independent runs,
 
-## Iris Data Set
+## Sample outputs (Iris Data Set)
+
+* Dataset URL: https://archive.ics.uci.edu/ml/datasets/iris
 
 * 1st Run, (test set_1 for a training set_1)
     * Accuracy before pruning: 83.0%
@@ -14,7 +16,9 @@ The project includes implementation of Decision tree classifier without using an
 	* Accuracy after pruning on the same set: 100.0%
 	* Total Accuracy Increase: 7%
 
-## Advertisement dataset (super data science)
+## Sample Outputs (Advertisement dataset)
+
+* dataset URL: https://www.superdatascience.com/pages/machine-learning
 
 * 1st Run, (test set_1 for a training set_1)
 	* Accuracy before pruning: 88.0%
