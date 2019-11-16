@@ -18,7 +18,7 @@ The project includes implementation of Decision tree classifier without using an
 
 ## Sample Outputs (Advertisement dataset)
 
-* dataset URL: https://www.superdatascience.com/pages/machine-learning
+* Dataset URL: https://www.superdatascience.com/pages/machine-learning
 
 * 1st Run, (test set_1 for a training set_1)
 	* Accuracy before pruning: 88.0%
